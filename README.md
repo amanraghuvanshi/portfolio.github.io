@@ -22,7 +22,7 @@ I am a UI/UX Developer and Cyber Security Freak <img src="https://media.giphy.co
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Aman-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amanraghuvanshi/)
 <div align="center">
   <p>The following website project is a fully responsive portfolio, designed with HTML, CSS, JavaScript</p><br>
-  <a href="https://amanraghuvanshi.github.io/Space.github.io/"><strong>Live Demo</strong></a>
+  <a href="https://amanraghuvanshi.github.io/portfolio.github.io/"><strong>Live Demo</strong></a>
 </div>
 
 
